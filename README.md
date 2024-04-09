@@ -13,3 +13,5 @@ The game is a hybrid of several genres at once: Dungeon crawler, Battleroyal and
   Players must overcome the countless challenges they constantly face
 
   download a free and safe game file from the developer's official website
+
+[<img src="https://github.com/NickBrarr/dark-and-darker/blob/main/dark%20and%20darker.jpg"/>]
